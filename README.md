@@ -35,7 +35,7 @@
 ---
 
 ### 🐍 Contribution Streak
-![Snake Animation](https://raw.githubusercontent.com/fallingbody/fallingbody/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/fallingbody/About-Me/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
