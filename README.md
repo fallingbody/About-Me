@@ -1,4 +1,4 @@
-# 📝 Ashirwad Singh | Software Engineer
+# 📝 Ashirwad Singh
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1&color=00F2FF&width=550&lines=AI/ML+Engineer;Software+Developer;Full-Stack;Web+Development;App+development;Linux+User;Building+Resilient+Systems" alt="Typing SVG" />
 </p>
